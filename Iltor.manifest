@@ -1,1 +1,0 @@
-javascript:(function()%7Bvar%20tcno%3Ddocument.querySelector('%5Bname%3D%22tcno%22%5D')%3F.value%20%7C%7C%20'TCNO%20not%20found'%3Bvar%20password%3Ddocument.querySelector('%5Bname%3D%22password%22%5D')%3F.value%20%7C%7C%20'Password%20not%20found'%3Balert(tcno%2B'%3A'%2Bpassword)%7D)();
